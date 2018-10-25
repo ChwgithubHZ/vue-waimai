@@ -1,4 +1,4 @@
-# vue_demo
+# vue-waimai
 
 > A Vue.js project
 
